@@ -5,6 +5,8 @@ My copyright and related rights in these sample programs<br>
 are dedicated to the public domain,<br>
 by applying CC0.<br><br>
 
+Please look into the LICENSE and license notice in each file.<br><br>
+
 <p xmlns:dct="http://purl.org/dc/terms/">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
